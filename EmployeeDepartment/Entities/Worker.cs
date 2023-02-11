@@ -15,15 +15,15 @@ namespace EmployeeDepartment.Entities
         }
 
         public string Name { get; set; }
-        public WorkerLevel MyProperty { get; set; }
+        public WorkerLevel WorkerLevel { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
-        public Worker(string name, WorkerLevel myProperty, double baseSalary, Department department)
+        public Worker(string name, WorkerLevel workerLevel, double baseSalary, Department department)
         {
             Name = name;
-            MyProperty = myProperty;
+            WorkerLevel = workerLevel;
             BaseSalary = baseSalary;
             Department = department;
         }

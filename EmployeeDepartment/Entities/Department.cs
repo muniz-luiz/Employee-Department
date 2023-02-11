@@ -13,7 +13,7 @@ namespace EmployeeDepartment.Entities
 
         public Department(string Name)
         {
-            this.name = Name;
+            name = Name;
         }
 
         public Department()

@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.exe
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.dll
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.pdb
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.dll
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\refint\EmployeeDepartment.dll
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.pdb
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\EmployeeDepartment\EmployeeDepartment\obj\Debug\net7.0\ref\EmployeeDepartment.dll
