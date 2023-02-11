@@ -8,5 +8,16 @@ namespace EmployeeDepartment.Entities
 {
     internal class Department
     {
+        public string name { get; set; }
+
+
+        public Department(string Name)
+        {
+            this.name = Name;
+        }
+
+        public Department()
+        {
+        }
     }
 }
